@@ -1,6 +1,8 @@
 # angular-directive-wrapper
 A wrapper code for Angular's Directive for a better and more understandable directive
 
+Just include directive.js into your codebase and use it!
+
 # Usage Example
 ```
 import angular from 'angular';
