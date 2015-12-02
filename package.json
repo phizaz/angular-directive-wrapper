@@ -1,0 +1,23 @@
+{
+  "name": "angular-directive-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phizaz/angular-directive-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phizaz/angular-directive-wrapper/issues"
+  },
+  "homepage": "https://github.com/phizaz/angular-directive-wrapper#readme",
+  "devDependencies": {
+    "angular": "^1.4.8",
+    "lodash": "^3.10.1"
+  }
+}
